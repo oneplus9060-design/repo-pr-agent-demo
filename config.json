@@ -1,0 +1,7 @@
+{
+  "database": {
+    "connection_pool": {
+      "max_size": 5
+    }
+  }
+}
