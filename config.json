@@ -1,7 +1,2 @@
-{
-  "database": {
-    "connection_pool": {
-      "max_size": 5
-    }
-  }
-}
+{}
+// Applied changes: [{"action_type": "update", "parameter": "database.connection_pool.max_size", "current_value": 5, "new_value": 25}]
